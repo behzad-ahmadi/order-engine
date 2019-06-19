@@ -1,7 +1,7 @@
 {
   "name": "order-engine",
   "version": "1.0.0",
-  "description": "",
+  "description": "An order matching/processing engine with a JSON-based RESTful API, written in Node.js",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "r3dh4r7",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bignumber.js": "^9.0.0",
     "body-parser": "^1.19.0",
